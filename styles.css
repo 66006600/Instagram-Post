@@ -1,48 +1,47 @@
-.container{    
+.container {
     background-color: rgb(235, 235, 245);
     margin-top: 30px;
     height: 500px;
-    width: 300px; 
- }
- .Post {
+    width: 300px;
+  }
+  
+  .Post {
     padding-bottom: 3px;
     padding-top: 3px;
- }
- 
- .d-flex {
+  }
+  
+  .d-flex {
     padding-bottom: 2px;
- }
- .middle {
+  }
+  
+  .middle {
     display: block;
-    font-size: small;   
- }
-
-.right-align {
+    font-size: small;
+  }
+  
+  .right-align {
     margin-left: auto;
-}
-
-.iconos {
-    display: flex;    
-    padding-right: 3px;   
-    padding-top: 3px; 
-}
-
-.footer {
+  }
+  
+  .iconos {
+    display: flex;
+    padding-right: 3px;
     padding-top: 3px;
-}
-a {
+  }
+  
+  .footer {
+    padding-top: 3px;
+  }
+  
+  a {
     margin-left: auto;
-}
-p {
+  }
+  
+  p {
     font-size: 13px;
     padding-top: 3px;
-}
-.coment {
-    font-size: small;
-}
+  }
   
-
-      
- 
-
- 
+  .coment {
+    font-size: small;
+  }
