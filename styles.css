@@ -1,7 +1,48 @@
-.container{
-    background-color: rgb(153, 153, 224);
+.container{    
+    background-color: rgb(235, 235, 245);
+    margin-top: 30px;
     height: 500px;
-    width: 400px; 
+    width: 300px; 
  }
+ .Post {
+    padding-bottom: 3px;
+    padding-top: 3px;
+ }
+ 
+ .d-flex {
+    padding-bottom: 2px;
+ }
+ .middle {
+    display: block;
+    font-size: small;   
+ }
+
+.right-align {
+    margin-left: auto;
+}
+
+.iconos {
+    display: flex;    
+    padding-right: 3px;   
+    padding-top: 3px; 
+}
+
+.footer {
+    padding-top: 3px;
+}
+a {
+    margin-left: auto;
+}
+p {
+    font-size: 13px;
+    padding-top: 3px;
+}
+.coment {
+    font-size: small;
+}
+  
+
+      
+ 
 
  
